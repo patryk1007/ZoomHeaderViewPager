@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZoomHeaderViewPager">
+        <attr name="hvTextSize"  type="integer" format="dimension" />
+        <attr name="hvTextColor"  type="integer" format="color" />
+        <attr name="hvTextColorActiveTab"  type="integer" format="color" />
+        <attr name="hvTextAlpha"  type="integer" format="float" />
+        <attr name="hvTextAlphaActiveTab"  type="integer" format="float" />
+        <attr name="hvTextScale"  type="integer" format="float" />
+        <attr name="hvTextScaleActiveTab" type="integer" format="float" />
+        <attr name="hvPadding" type="integer" format="dimension" />
+    </declare-styleable>
+</resources>
