@@ -1,6 +1,6 @@
 # ZoomHeaderViewPager
 
-![ZoomHeaderViewPager Demo][demo_gif]
+![ZoomHeaderViewPager Demo](screen/demo1.gif)
 
 # Usage
 
