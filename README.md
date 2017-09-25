@@ -53,10 +53,10 @@ ViewPager's adapter have to override getPageTitle method.
 
 ```
 
-#Download
+# Download
 
 
-    compile 'com.patryk1007:zoomviewpager:1.0'
+    compile 'com.patryk1007:zoomviewpager:1.0.1'
 
 # Attributes
 
